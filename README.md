@@ -1,4 +1,6 @@
-# G.Gagandeep - Personal Developer Portfolio 🚀
+# G.Gagandeep - AI Engineer & Developer Portfolio 🚀
+
+> **Live Website:** [https://g-gagandeep-ai-engineer-portfolio.ai.studio](https://g-gagandeep-ai-engineer-portfolio.ai.studio)
 
 A modern, high-performance personal developer portfolio for **G.Gagandeep**, built with modern responsive web standards, glassmorphic UI, dynamic constellation particles, and instant contact integration with `gaganmom80199@gmail.com`.
 
@@ -6,6 +8,7 @@ A modern, high-performance personal developer portfolio for **G.Gagandeep**, bui
 
 ## 🌟 Highlights
 
+- **Live URL**: [https://g-gagandeep-ai-engineer-portfolio.ai.studio](https://g-gagandeep-ai-engineer-portfolio.ai.studio)
 - **Identity & Contact**:
   - Name: **G.Gagandeep**
   - Email: **gaganmom80199@gmail.com** (with instant copy-to-clipboard & mailto integration)
